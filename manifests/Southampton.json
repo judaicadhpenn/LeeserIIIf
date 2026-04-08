@@ -1,0 +1,146 @@
+{
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "id" : "https://judaicadhpenn.github.io/LeeserIIIf/manifests/Southampton.json",
+  "type" : "Manifest",
+  "label" : {
+    "en" : [ "Letter from Isaac Leeser to Jacob Franklin with an enclosed prospectus for The Occident, and American Jewish Advocate" ]
+  },
+  "navDate" : "1842-08-17T04:56:02.000Z",
+  "thumbnail" : [ {
+    "id" : "https://judaicadhpenn.github.io/LeeserIIIf/images/MS305_A1065_1_0001/full/max/0/default.jpg",
+    "type" : "Image",
+    "format" : "image/jpeg",
+    "height" : 9969,
+    "width" : 8072
+  } ],
+  "provider" : [ {
+    "id" : "https://example.org/h4gs7zrl84k-mnqik2am/provider/3usztavelud-mnqj14rl",
+    "type" : "Agent",
+    "label" : {
+      "en" : [ "University of Southampton" ]
+    },
+    "logo" : [ {
+      "id" : "https://upload.wikimedia.org/wikipedia/en/3/32/University_of_Southampton_Logo.png",
+      "type" : "Image"
+    } ]
+  } ],
+  "items" : [ {
+    "id" : "https://example.org/h4gs7zrl84k-mnqik2am/canvas/7kk7yhaj23u-mnqikxm2",
+    "type" : "Canvas",
+    "height" : 9969,
+    "width" : 8072,
+    "label" : {
+      "en" : [ "1" ]
+    },
+    "rights" : "http://creativecommons.org/licenses/by/4.0/",
+    "thumbnail" : [ {
+      "id" : "https://judaicadhpenn.github.io/LeeserIIIf/images/MS305_A1065_1_0001/full/max/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 9969,
+      "width" : 8072
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/h4gs7zrl84k-mnqik2am/canvas/7kk7yhaj23u-mnqikxm2/annotation-page/dqteoqgurkp-mnqikxm2",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/h4gs7zrl84k-mnqik2am/annotation/xweeqi4zikm-mnqikx1x",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/h4gs7zrl84k-mnqik2am/canvas/7kk7yhaj23u-mnqikxm2",
+        "body" : {
+          "id" : "https://judaicadhpenn.github.io/LeeserIIIf/images/MS305_A1065_1_0001/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 9969,
+          "width" : 8072
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/h4gs7zrl84k-mnqik2am/canvas/u3r29vwoxg-mnqikyah",
+    "type" : "Canvas",
+    "height" : 10095,
+    "width" : 8081,
+    "label" : {
+      "en" : [ "2" ]
+    },
+    "rights" : "http://creativecommons.org/licenses/by/4.0/",
+    "thumbnail" : [ {
+      "id" : "https://judaicadhpenn.github.io/LeeserIIIf/images/MS305_A1065_1_0002/full/max/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 10095,
+      "width" : 8081
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/h4gs7zrl84k-mnqik2am/canvas/u3r29vwoxg-mnqikyah/annotation-page/sjcuul0pg1l-mnqikyah",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/h4gs7zrl84k-mnqik2am/annotation/ozf002gltoa-mnqikxm2",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/h4gs7zrl84k-mnqik2am/canvas/u3r29vwoxg-mnqikyah",
+        "body" : {
+          "id" : "https://judaicadhpenn.github.io/LeeserIIIf/images/MS305_A1065_1_0002/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 10095,
+          "width" : 8081
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/h4gs7zrl84k-mnqik2am/canvas/u30nv75umm-mnqikywq",
+    "type" : "Canvas",
+    "height" : 9886,
+    "width" : 7938,
+    "label" : {
+      "en" : [ "3" ]
+    },
+    "metadata" : [ {
+      "label" : {
+        "en" : [ "" ]
+      },
+      "value" : {
+        "en" : [ "" ]
+      }
+    } ],
+    "rights" : "http://creativecommons.org/licenses/by/4.0/",
+    "thumbnail" : [ {
+      "id" : "https://judaicadhpenn.github.io/LeeserIIIf/images/MS305_A1065_1_0003/full/max/0/default.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "height" : 9886,
+      "width" : 7938
+    } ],
+    "items" : [ {
+      "id" : "https://example.org/h4gs7zrl84k-mnqik2am/canvas/u30nv75umm-mnqikywq/annotation-page/fda33nvvubd-mnqikywq",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/h4gs7zrl84k-mnqik2am/annotation/ot0f35sn5za-mnqikyah",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/h4gs7zrl84k-mnqik2am/canvas/u30nv75umm-mnqikywq",
+        "body" : {
+          "id" : "https://judaicadhpenn.github.io/LeeserIIIf/images/MS305_A1065_1_0003/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 9886,
+          "width" : 7938
+        }
+      } ]
+    } ]
+  } ],
+  "navPlace" : {
+    "type" : "FeatureCollection",
+    "features" : [ {
+      "type" : "Feature",
+      "properties" : { },
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [ -75.135498, 39.961629 ]
+      }
+    } ]
+  }
+}
