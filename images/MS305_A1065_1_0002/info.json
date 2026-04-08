@@ -1,0 +1,33 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 253,
+    "height" : 316
+  }, {
+    "width" : 506,
+    "height" : 631
+  }, {
+    "width" : 1011,
+    "height" : 1262
+  }, {
+    "width" : 2021,
+    "height" : 2524
+  }, {
+    "width" : 4041,
+    "height" : 5048
+  }, {
+    "width" : 8081,
+    "height" : 10095
+  } ],
+  "profile" : "level0",
+  "width" : 8081,
+  "id" : "https://judaicadhpenn.github.io/LeeserIIIf/images/MS305_A1065_1_0002",
+  "type" : "ImageService3",
+  "@context" : "http://iiif.io/api/image/3/context.json",
+  "height" : 10095
+}
