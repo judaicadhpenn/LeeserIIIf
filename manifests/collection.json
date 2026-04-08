@@ -11,5 +11,11 @@
       "en" : [ "Letter from Mordecai Sheftall to Isaac Leeser, 1843" ]
     },
     "type" : "Manifest"
+  }, {
+    "id" : "https://judaicadhpenn.github.io/LeeserIIIf/manifests/Southampton.json",
+    "label" : {
+      "en" : [ "Letter from Isaac Leeser to Jacob Franklin with an enclosed prospectus for The Occident, and American Jewish Advocate" ]
+    },
+    "type" : "Manifest"
   } ]
 }
