@@ -1,0 +1,33 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 149,
+    "height" : 184
+  }, {
+    "width" : 297,
+    "height" : 368
+  }, {
+    "width" : 593,
+    "height" : 736
+  }, {
+    "width" : 1185,
+    "height" : 1472
+  }, {
+    "width" : 2369,
+    "height" : 2943
+  }, {
+    "width" : 4737,
+    "height" : 5886
+  } ],
+  "profile" : "level0",
+  "width" : 4737,
+  "id" : "https://judaicadhpenn.github.io/LeeserIIIf/images/Sheftall_Leeser_UGA_2v",
+  "type" : "ImageService3",
+  "@context" : "http://iiif.io/api/image/3/context.json",
+  "height" : 5886
+}

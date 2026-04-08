@@ -7,5 +7,330 @@
             "All images loaded in judaicadhpenn/LeeserIIIf project"
         ]
     },
-    "items": []
+    "items": [
+        {
+            "id": "https://judaicadhpenn.github.io/LeeserIIIf/images/Sheftall_Leeser_UGA_1v/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "Sheftall_Leeser_UGA_1v"
+                ]
+            },
+            "height": 5862,
+            "width": 4721,
+            "items": [
+                {
+                    "id": "https://judaicadhpenn.github.io/LeeserIIIf/images/Sheftall_Leeser_UGA_1v/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://judaicadhpenn.github.io/LeeserIIIf/images/Sheftall_Leeser_UGA_1v/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://judaicadhpenn.github.io/LeeserIIIf/images/Sheftall_Leeser_UGA_1v/full/max/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 148,
+                                                "height": 184
+                                            },
+                                            {
+                                                "width": 296,
+                                                "height": 367
+                                            },
+                                            {
+                                                "width": 591,
+                                                "height": 733
+                                            },
+                                            {
+                                                "width": 1181,
+                                                "height": 1466
+                                            },
+                                            {
+                                                "width": 2361,
+                                                "height": 2931
+                                            },
+                                            {
+                                                "width": 4721,
+                                                "height": 5862
+                                            }
+                                        ],
+                                        "profile": "level0",
+                                        "width": 4721,
+                                        "id": "https://judaicadhpenn.github.io/LeeserIIIf/images/Sheftall_Leeser_UGA_1v",
+                                        "type": "ImageService3",
+                                        "@context": "http://iiif.io/api/image/3/context.json",
+                                        "height": 5862
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://judaicadhpenn.github.io/LeeserIIIf/images/Sheftall_Leeser_UGA_1v/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://judaicadhpenn.github.io/LeeserIIIf/images/Sheftall_Leeser_UGA_1r/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "Sheftall_Leeser_UGA_1r"
+                ]
+            },
+            "height": 5835,
+            "width": 4660,
+            "items": [
+                {
+                    "id": "https://judaicadhpenn.github.io/LeeserIIIf/images/Sheftall_Leeser_UGA_1r/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://judaicadhpenn.github.io/LeeserIIIf/images/Sheftall_Leeser_UGA_1r/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://judaicadhpenn.github.io/LeeserIIIf/images/Sheftall_Leeser_UGA_1r/full/max/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 146,
+                                                "height": 183
+                                            },
+                                            {
+                                                "width": 292,
+                                                "height": 365
+                                            },
+                                            {
+                                                "width": 583,
+                                                "height": 730
+                                            },
+                                            {
+                                                "width": 1165,
+                                                "height": 1459
+                                            },
+                                            {
+                                                "width": 2330,
+                                                "height": 2918
+                                            },
+                                            {
+                                                "width": 4660,
+                                                "height": 5835
+                                            }
+                                        ],
+                                        "profile": "level0",
+                                        "width": 4660,
+                                        "id": "https://judaicadhpenn.github.io/LeeserIIIf/images/Sheftall_Leeser_UGA_1r",
+                                        "type": "ImageService3",
+                                        "@context": "http://iiif.io/api/image/3/context.json",
+                                        "height": 5835
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://judaicadhpenn.github.io/LeeserIIIf/images/Sheftall_Leeser_UGA_1r/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://judaicadhpenn.github.io/LeeserIIIf/images/Sheftall_Leeser_UGA_2v/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "Sheftall_Leeser_UGA_2v"
+                ]
+            },
+            "height": 5886,
+            "width": 4737,
+            "items": [
+                {
+                    "id": "https://judaicadhpenn.github.io/LeeserIIIf/images/Sheftall_Leeser_UGA_2v/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://judaicadhpenn.github.io/LeeserIIIf/images/Sheftall_Leeser_UGA_2v/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://judaicadhpenn.github.io/LeeserIIIf/images/Sheftall_Leeser_UGA_2v/full/max/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 149,
+                                                "height": 184
+                                            },
+                                            {
+                                                "width": 297,
+                                                "height": 368
+                                            },
+                                            {
+                                                "width": 593,
+                                                "height": 736
+                                            },
+                                            {
+                                                "width": 1185,
+                                                "height": 1472
+                                            },
+                                            {
+                                                "width": 2369,
+                                                "height": 2943
+                                            },
+                                            {
+                                                "width": 4737,
+                                                "height": 5886
+                                            }
+                                        ],
+                                        "profile": "level0",
+                                        "width": 4737,
+                                        "id": "https://judaicadhpenn.github.io/LeeserIIIf/images/Sheftall_Leeser_UGA_2v",
+                                        "type": "ImageService3",
+                                        "@context": "http://iiif.io/api/image/3/context.json",
+                                        "height": 5886
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://judaicadhpenn.github.io/LeeserIIIf/images/Sheftall_Leeser_UGA_2v/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://judaicadhpenn.github.io/LeeserIIIf/images/Sheftall_Leeser_UGA_2r/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "Sheftall_Leeser_UGA_2r"
+                ]
+            },
+            "height": 5876,
+            "width": 4699,
+            "items": [
+                {
+                    "id": "https://judaicadhpenn.github.io/LeeserIIIf/images/Sheftall_Leeser_UGA_2r/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://judaicadhpenn.github.io/LeeserIIIf/images/Sheftall_Leeser_UGA_2r/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://judaicadhpenn.github.io/LeeserIIIf/images/Sheftall_Leeser_UGA_2r/full/max/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 147,
+                                                "height": 184
+                                            },
+                                            {
+                                                "width": 294,
+                                                "height": 368
+                                            },
+                                            {
+                                                "width": 588,
+                                                "height": 735
+                                            },
+                                            {
+                                                "width": 1175,
+                                                "height": 1469
+                                            },
+                                            {
+                                                "width": 2350,
+                                                "height": 2938
+                                            },
+                                            {
+                                                "width": 4699,
+                                                "height": 5876
+                                            }
+                                        ],
+                                        "profile": "level0",
+                                        "width": 4699,
+                                        "id": "https://judaicadhpenn.github.io/LeeserIIIf/images/Sheftall_Leeser_UGA_2r",
+                                        "type": "ImageService3",
+                                        "@context": "http://iiif.io/api/image/3/context.json",
+                                        "height": 5876
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://judaicadhpenn.github.io/LeeserIIIf/images/Sheftall_Leeser_UGA_2r/canvas/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }
